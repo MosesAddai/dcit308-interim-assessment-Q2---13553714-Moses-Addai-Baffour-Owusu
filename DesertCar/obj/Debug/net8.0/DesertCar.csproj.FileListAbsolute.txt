@@ -1,0 +1,15 @@
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/bin/Debug/net8.0/DesertCar
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/bin/Debug/net8.0/DesertCar.deps.json
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/bin/Debug/net8.0/DesertCar.runtimeconfig.json
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/bin/Debug/net8.0/DesertCar.dll
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/bin/Debug/net8.0/DesertCar.pdb
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/DesertCar.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/DesertCar.AssemblyInfoInputs.cache
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/DesertCar.AssemblyInfo.cs
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/DesertCar.csproj.CoreCompileInputs.cache
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/DesertCar.sourcelink.json
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/DesertCar.dll
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/refint/DesertCar.dll
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/DesertCar.pdb
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/DesertCar.genruntimeconfig.cache
+/workspaces/dcit308-interim-assessment-Q2---13553714-Moses-Addai-Baffour-Owusu/DesertCar/obj/Debug/net8.0/ref/DesertCar.dll
